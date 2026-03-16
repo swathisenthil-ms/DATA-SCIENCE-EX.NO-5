@@ -124,3 +124,7 @@ plt.show()
 
 # Result:
 Different data visualization plots such as scatter plot, line plot, bar chart, histogram, box plot, and pie chart were successfully created using the Matplotlib library in Python.
+# PDF FILE:
+[vertopal.com_iris EX-5.pdf](https://github.com/user-attachments/files/26030549/vertopal.com_iris.EX-5.pdf)
+
+
